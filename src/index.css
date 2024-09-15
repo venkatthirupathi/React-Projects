@@ -1,0 +1,32 @@
+.Card{
+    /* background-color:aqua; */
+    border: 1px solid rgb(200, 200, 200);
+    border-radius:10px;
+    border-radius: 5px 5px 5px hsla(118, 83%, 50%, 0.1);
+    padding: 20px;
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+}
+.Card-image{
+max-width: 60%;
+height: auto;
+border-radius: 50%;
+margin-bottom: 10px;
+
+}
+
+.card-title{
+    margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+color: #db751c;
+/* float: inline-end;
+ */
+ font-size: 35px;
+ 
+
+}
+.card-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: black ;
+}
